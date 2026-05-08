@@ -5,3 +5,11 @@ C:\Users\Admin\Documents\2024-2025\AALGO\JeuDeLaVieConsole\JeuDeLaVieConsole\obj
 C:\Users\Admin\Documents\2024-2025\AALGO\JeuDeLaVieConsole\JeuDeLaVieConsole\obj\Debug\JeuDeLaVieConsole.csproj.CoreCompileInputs.cache
 C:\Users\Admin\Documents\2024-2025\AALGO\JeuDeLaVieConsole\JeuDeLaVieConsole\obj\Debug\JeuDeLaVieConsole.exe
 C:\Users\Admin\Documents\2024-2025\AALGO\JeuDeLaVieConsole\JeuDeLaVieConsole\obj\Debug\JeuDeLaVieConsole.pdb
+C:\Users\Admin\Desktop\JeuDeLaVie\JeuDeLaVieConsole\JeuDeLaVieConsole\bin\Debug\JeuDeLaVieConsole.exe.config
+C:\Users\Admin\Desktop\JeuDeLaVie\JeuDeLaVieConsole\JeuDeLaVieConsole\bin\Debug\JeuDeLaVieConsole.exe
+C:\Users\Admin\Desktop\JeuDeLaVie\JeuDeLaVieConsole\JeuDeLaVieConsole\bin\Debug\JeuDeLaVieConsole.pdb
+C:\Users\Admin\Desktop\JeuDeLaVie\JeuDeLaVieConsole\JeuDeLaVieConsole\obj\Debug\JeuDeLaVieConsole.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\JeuDeLaVie\JeuDeLaVieConsole\JeuDeLaVieConsole\obj\Debug\JeuDeLaVieConsole.exe.config
+C:\Users\Admin\Desktop\JeuDeLaVie\JeuDeLaVieConsole\JeuDeLaVieConsole\obj\Debug\JeuDeLaVieConsole.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\JeuDeLaVie\JeuDeLaVieConsole\JeuDeLaVieConsole\obj\Debug\JeuDeLaVieConsole.exe
+C:\Users\Admin\Desktop\JeuDeLaVie\JeuDeLaVieConsole\JeuDeLaVieConsole\obj\Debug\JeuDeLaVieConsole.pdb
